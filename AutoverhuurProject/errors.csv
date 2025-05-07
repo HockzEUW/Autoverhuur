@@ -1,0 +1,884 @@
+Bestand;Lijnnummer;Foutboodschap
+"Vestigingen";"4";"Fout bij het inlezen uit bestand, lijn werd overgeslagen"
+"klant";"13";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"klant";"24";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"klant";"28";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"klant";"32";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"klant";"43";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"klant";"47";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"klant";"53";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"klant";"55";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"klant";"57";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"klant";"58";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"klant";"60";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.peeters@example.com).
+The statement has been terminated."
+"klant";"62";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"klant";"63";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"klant";"64";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.ivanov@example.com).
+The statement has been terminated."
+"klant";"67";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"klant";"69";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"klant";"72";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"klant";"73";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"klant";"74";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"klant";"75";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.kowalski@example.com).
+The statement has been terminated."
+"klant";"76";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"klant";"77";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"klant";"78";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.schmidt@example.com).
+The statement has been terminated."
+"klant";"80";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"klant";"82";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"klant";"83";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"klant";"84";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"klant";"85";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"klant";"86";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"klant";"87";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"klant";"88";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"klant";"90";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"klant";"91";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"klant";"92";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.schmidt@example.com).
+The statement has been terminated."
+"klant";"94";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"klant";"96";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"klant";"97";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"klant";"98";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"klant";"100";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"klant";"101";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"klant";"102";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"klant";"103";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"klant";"105";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.murphy@example.com).
+The statement has been terminated."
+"klant";"107";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"klant";"108";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.peeters@example.com).
+The statement has been terminated."
+"klant";"109";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.schmidt@example.com).
+The statement has been terminated."
+"klant";"110";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.peeters@example.com).
+The statement has been terminated."
+"klant";"112";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"klant";"113";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.garcia@example.com).
+The statement has been terminated."
+"klant";"114";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"klant";"115";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"klant";"117";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"klant";"119";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"klant";"121";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"klant";"122";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"klant";"123";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"klant";"125";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.ivanov@example.com).
+The statement has been terminated."
+"klant";"126";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.rossi@example.com).
+The statement has been terminated."
+"klant";"127";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"klant";"129";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"klant";"131";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.dubois@example.com).
+The statement has been terminated."
+"klant";"137";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"klant";"138";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"klant";"139";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.rossi@example.com).
+The statement has been terminated."
+"klant";"142";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.dubois@example.com).
+The statement has been terminated."
+"klant";"143";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"klant";"144";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"klant";"145";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"klant";"146";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.garcia@example.com).
+The statement has been terminated."
+"klant";"147";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.ivanov@example.com).
+The statement has been terminated."
+"klant";"148";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.kowalski@example.com).
+The statement has been terminated."
+"klant";"150";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"klant";"151";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"Vestigingen";"4";"Fout bij het inlezen uit bestand, lijn werd overgeslagen"
+"Klanten";"13";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"24";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"28";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"32";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"43";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"Klanten";"47";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"53";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"55";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"57";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"Klanten";"58";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"Klanten";"60";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.peeters@example.com).
+The statement has been terminated."
+"Klanten";"62";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"63";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"64";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"67";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"69";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"Klanten";"72";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"Klanten";"73";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"74";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"75";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"76";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"77";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"78";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"80";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"82";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"83";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"Klanten";"84";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"85";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"86";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"87";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"Klanten";"88";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"90";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"91";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"92";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"94";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"Klanten";"96";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"Klanten";"97";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"98";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"100";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"Klanten";"101";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"102";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"103";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"105";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.murphy@example.com).
+The statement has been terminated."
+"Klanten";"107";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"108";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.peeters@example.com).
+The statement has been terminated."
+"Klanten";"109";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"110";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.peeters@example.com).
+The statement has been terminated."
+"Klanten";"112";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"Klanten";"113";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.garcia@example.com).
+The statement has been terminated."
+"Klanten";"114";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"115";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"Klanten";"117";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"119";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"Klanten";"121";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"Klanten";"122";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"123";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"125";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"126";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.rossi@example.com).
+The statement has been terminated."
+"Klanten";"127";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"129";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"Klanten";"131";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.dubois@example.com).
+The statement has been terminated."
+"Klanten";"137";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"138";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"139";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.rossi@example.com).
+The statement has been terminated."
+"Klanten";"142";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.dubois@example.com).
+The statement has been terminated."
+"Klanten";"143";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"144";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"Klanten";"145";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"146";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.garcia@example.com).
+The statement has been terminated."
+"Klanten";"147";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"148";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"150";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"Klanten";"151";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"Vestigingen";"4";"Fout bij het inlezen uit bestand, lijn werd overgeslagen"
+"Klanten";"13";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"24";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"28";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"32";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"43";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"Klanten";"47";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"53";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"55";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"57";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"Klanten";"58";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"Klanten";"60";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.peeters@example.com).
+The statement has been terminated."
+"Klanten";"62";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"63";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"64";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"67";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"69";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"Klanten";"72";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"Klanten";"73";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"74";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"75";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"76";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"77";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"78";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"80";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"82";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"83";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"Klanten";"84";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"85";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"86";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"87";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"Klanten";"88";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"90";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"91";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"92";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"94";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"Klanten";"96";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"Klanten";"97";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"98";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"100";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"Klanten";"101";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"102";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"103";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"105";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.murphy@example.com).
+The statement has been terminated."
+"Klanten";"107";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"108";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.peeters@example.com).
+The statement has been terminated."
+"Klanten";"109";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"110";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.peeters@example.com).
+The statement has been terminated."
+"Klanten";"112";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"Klanten";"113";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.garcia@example.com).
+The statement has been terminated."
+"Klanten";"114";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"115";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"Klanten";"117";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"119";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"Klanten";"121";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"Klanten";"122";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"123";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"125";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"126";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.rossi@example.com).
+The statement has been terminated."
+"Klanten";"127";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"129";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"Klanten";"131";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.dubois@example.com).
+The statement has been terminated."
+"Klanten";"137";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"138";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"139";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.rossi@example.com).
+The statement has been terminated."
+"Klanten";"142";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.dubois@example.com).
+The statement has been terminated."
+"Klanten";"143";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"144";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"Klanten";"145";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"146";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.garcia@example.com).
+The statement has been terminated."
+"Klanten";"147";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"148";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"150";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"Klanten";"151";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"Vestigingen";"4";"Fout bij het inlezen uit bestand, lijn werd overgeslagen"
+"Klanten";"13";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"24";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"28";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"32";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"43";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"Klanten";"47";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"53";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"55";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"57";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"Klanten";"58";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"Klanten";"60";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.peeters@example.com).
+The statement has been terminated."
+"Klanten";"62";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"63";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"64";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"67";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"69";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"Klanten";"72";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"Klanten";"73";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"74";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"75";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"76";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"77";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"78";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"80";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"82";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"83";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"Klanten";"84";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"85";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"86";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"87";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"Klanten";"88";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"90";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"91";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"92";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"94";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"Klanten";"96";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"Klanten";"97";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"98";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"100";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"Klanten";"101";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"102";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"103";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"105";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.murphy@example.com).
+The statement has been terminated."
+"Klanten";"107";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"108";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.peeters@example.com).
+The statement has been terminated."
+"Klanten";"109";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"110";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.peeters@example.com).
+The statement has been terminated."
+"Klanten";"112";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"Klanten";"113";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.garcia@example.com).
+The statement has been terminated."
+"Klanten";"114";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"115";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"Klanten";"117";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"119";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"Klanten";"121";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"Klanten";"122";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"123";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"125";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"126";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.rossi@example.com).
+The statement has been terminated."
+"Klanten";"127";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"129";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"Klanten";"131";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.dubois@example.com).
+The statement has been terminated."
+"Klanten";"137";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"138";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"139";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.rossi@example.com).
+The statement has been terminated."
+"Klanten";"142";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.dubois@example.com).
+The statement has been terminated."
+"Klanten";"143";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"144";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"Klanten";"145";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"146";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.garcia@example.com).
+The statement has been terminated."
+"Klanten";"147";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"148";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"150";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"Klanten";"151";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"Vestigingen";"4";"Fout bij het inlezen uit bestand, lijn werd overgeslagen"
+"Klanten";"13";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"24";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"28";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"32";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"43";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"Klanten";"47";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"53";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"55";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"57";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"Klanten";"58";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"Klanten";"60";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.peeters@example.com).
+The statement has been terminated."
+"Klanten";"62";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"63";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"64";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"67";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"69";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"Klanten";"72";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"Klanten";"73";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"74";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"75";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"76";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"77";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"78";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"80";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"82";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"83";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"Klanten";"84";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"85";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"86";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"87";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"Klanten";"88";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"90";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"91";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"92";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"94";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"Klanten";"96";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"Klanten";"97";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"98";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"100";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"Klanten";"101";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"102";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"103";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"105";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.murphy@example.com).
+The statement has been terminated."
+"Klanten";"107";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"108";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.peeters@example.com).
+The statement has been terminated."
+"Klanten";"109";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"110";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.peeters@example.com).
+The statement has been terminated."
+"Klanten";"112";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"Klanten";"113";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.garcia@example.com).
+The statement has been terminated."
+"Klanten";"114";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"115";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"Klanten";"117";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"119";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"Klanten";"121";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"Klanten";"122";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"123";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"125";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"126";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.rossi@example.com).
+The statement has been terminated."
+"Klanten";"127";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"129";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"Klanten";"131";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.dubois@example.com).
+The statement has been terminated."
+"Klanten";"137";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"138";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"139";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.rossi@example.com).
+The statement has been terminated."
+"Klanten";"142";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.dubois@example.com).
+The statement has been terminated."
+"Klanten";"143";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"144";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"Klanten";"145";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"146";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.garcia@example.com).
+The statement has been terminated."
+"Klanten";"147";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"148";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"150";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"Klanten";"151";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"Vestigingen";"4";"Fout bij het inlezen uit bestand, lijn werd overgeslagen"
+"Vestigingen";"4";"Fout bij het inlezen uit bestand, lijn werd overgeslagen"
+"Klanten";"13";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"24";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"28";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"32";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.jansen@example.com).
+The statement has been terminated."
+"Klanten";"43";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"Klanten";"47";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"53";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"55";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"57";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.garcia@example.com).
+The statement has been terminated."
+"Klanten";"58";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"Klanten";"60";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.peeters@example.com).
+The statement has been terminated."
+"Klanten";"62";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"63";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"64";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"67";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"69";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"Klanten";"72";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"Klanten";"73";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"74";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"75";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"76";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"77";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"78";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"80";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"82";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"83";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.peeters@example.com).
+The statement has been terminated."
+"Klanten";"84";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"85";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"86";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"87";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"Klanten";"88";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"90";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"91";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"92";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"94";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"Klanten";"96";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"Klanten";"97";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"98";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.jansen@example.com).
+The statement has been terminated."
+"Klanten";"100";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.murphy@example.com).
+The statement has been terminated."
+"Klanten";"101";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"102";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"103";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (liam.garcia@example.com).
+The statement has been terminated."
+"Klanten";"105";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.murphy@example.com).
+The statement has been terminated."
+"Klanten";"107";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"108";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.peeters@example.com).
+The statement has been terminated."
+"Klanten";"109";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (finn.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"110";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.peeters@example.com).
+The statement has been terminated."
+"Klanten";"112";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.dubois@example.com).
+The statement has been terminated."
+"Klanten";"113";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.garcia@example.com).
+The statement has been terminated."
+"Klanten";"114";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.peeters@example.com).
+The statement has been terminated."
+"Klanten";"115";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (lucas.jansen@example.com).
+The statement has been terminated."
+"Klanten";"117";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"119";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.dubois@example.com).
+The statement has been terminated."
+"Klanten";"121";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.rossi@example.com).
+The statement has been terminated."
+"Klanten";"122";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"123";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"125";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"126";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.rossi@example.com).
+The statement has been terminated."
+"Klanten";"127";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (mila.schmidt@example.com).
+The statement has been terminated."
+"Klanten";"129";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."
+"Klanten";"131";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.dubois@example.com).
+The statement has been terminated."
+"Klanten";"137";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.rossi@example.com).
+The statement has been terminated."
+"Klanten";"138";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.jansen@example.com).
+The statement has been terminated."
+"Klanten";"139";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.rossi@example.com).
+The statement has been terminated."
+"Klanten";"142";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.dubois@example.com).
+The statement has been terminated."
+"Klanten";"143";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (anna.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"144";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"Klanten";"145";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"146";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (max.garcia@example.com).
+The statement has been terminated."
+"Klanten";"147";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (julia.ivanov@example.com).
+The statement has been terminated."
+"Klanten";"148";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (emma.kowalski@example.com).
+The statement has been terminated."
+"Klanten";"150";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (noah.jansen@example.com).
+The statement has been terminated."
+"Klanten";"151";"Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__A9D10534330C7043'. Cannot insert duplicate key in object 'dbo.Klanten'. The duplicate key value is (sophie.dubois@example.com).
+The statement has been terminated."

@@ -1,0 +1,63 @@
+= Overzicht auto's
+Vestiging: 06a375a2-f6b0-4dd3-b8e4-dfe2ccef5af9
+Tijdstip: 5/04/2025 0:00:00 - 6/04/2025 0:00:00
+
+== BE-OQA-395 - Tesla Model 3
+=== Vorige reservatie
+Klant: Mila Schmidt +
+Adres: Rue de la Paix 157, 9809 Dublin, Ierland +
+Starttijd: 3/04/2025 0:00:00 +
+Eindtijd: 4/04/2025 0:00:00  +
+=== Volgende reservatie
+Klant: Emma Garcia +
+Adres: Baker Street 69, 1954 Moskou, Rusland +
+Starttijd: 9/04/2025 0:00:00 +
+Eindtijd: 11/04/2025 0:00:00 +
+
+== DE-DMU-867 - Skoda Octavia
+=== Vorige reservatie
+Klant: Mila Ivanov +
+Adres: Baker Street 56, 1804 Rome, Italië +
+Starttijd: 2/04/2025 0:00:00 +
+Eindtijd: 3/04/2025 0:00:00  +
+
+== SE-RSF-535 - Fiat 500
+=== Vorige reservatie
+Klant: Mila Ivanov +
+Adres: Baker Street 56, 1804 Rome, Italië +
+Starttijd: 2/04/2025 0:00:00 +
+Eindtijd: 3/04/2025 0:00:00  +
+
+== NL-VDZ-429 - Seat Leon
+
+== DK-JWG-113 - Volkswagen Golf
+
+== ES-MLZ-640 - Volkswagen Golf
+
+== SE-JRI-685 - Fiat 500
+
+== ES-FYW-310 - Seat Leon
+
+== PT-WHE-851 - Volvo V60
+
+== DK-BTU-335 - Renault Clio
+
+== ES-UFJ-440 - Peugeot 208
+
+== SE-GRJ-600 - Ford Fiesta
+
+== FI-QBQ-783 - BMW X5
+
+== SE-AGO-183 - BMW X5
+
+== PT-DFQ-174 - Tesla Model 3
+=== Vorige reservatie
+Klant: Mila Ivanov +
+Adres: Baker Street 56, 1804 Rome, Italië +
+Starttijd: 2/04/2025 0:00:00 +
+Eindtijd: 3/04/2025 0:00:00  +
+
+== NL-FYB-179 - Renault Clio
+
+== IT-GDW-287 - Peugeot 208
+

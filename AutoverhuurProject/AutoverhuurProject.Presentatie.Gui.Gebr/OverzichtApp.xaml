@@ -1,0 +1,33 @@
+﻿<Window x:Class="AutoverhuurProject.Presentatie.Gui.Gebr.OverzichtApp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutoverhuurProject.Presentatie.Gui.Gebr"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Overzicht" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/overzichtBg.png" Opacity="0.5"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Welkom in de autoverhuring applicatie." Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"/>
+        <Button x:Name="ReservatieMakenButton" Content="Reservatie maken" Grid.Row="1" Grid.Column="0" Click="ReservatieMakenButton_Click" Margin="20"/>
+        <Button x:Name="ReservatieOpzoekenButton" Content="Reservatie opzoeken" Grid.Row="1" Grid.Column="1" Click="ReservatieOpzoekenButton_Click" Margin="20"/>
+        <Button x:Name="AutoOverzichtButton" Content="Auto overzicht" Grid.Row="1" Grid.Column="2" Click="AutoOverzichtButton_Click" Margin="20"/>
+
+    </Grid>
+</Window>
+

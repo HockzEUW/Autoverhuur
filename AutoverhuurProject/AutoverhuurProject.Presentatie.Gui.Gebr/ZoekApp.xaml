@@ -1,0 +1,59 @@
+﻿<Window x:Class="AutoverhuurProject.Presentatie.Gui.Gebr.ZoekApp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutoverhuurProject.Presentatie.Gui.Gebr"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Reservatie zoeken" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="0" HorizontalAlignment="Center">
+            <TextBlock Text="Zoeken op naam, vestiging en datum" Margin="10" FontWeight="Bold"/>
+            <TextBox x:Name="KlantnaamTextBox" Width="100" Margin="10"/>
+            <ComboBox x:Name="VestigingenComboBox" Width="100" Margin="10" DisplayMemberPath="Luchthaven"/>
+            <DatePicker x:Name="ReservatieDatumDatePicker" IsTodayHighlighted="True"/>
+        </StackPanel>
+
+        <DockPanel Grid.Row="1" Grid.RowSpan="2">
+            <StackPanel>
+                <StackPanel>
+                    <Button x:Name="ZoekenButton" Margin="10" Content="Zoeken" Click="ZoekenButton_Click"/>
+                </StackPanel>
+                <StackPanel>
+                    <Button x:Name="AnnuleerButton" Margin="10 " Content="Annuleer reservatie" Click="AnnuleerButton_Click"/>
+                </StackPanel>
+                <StackPanel>
+                    <Button x:Name="VorigeButton" Margin="10" Content="Vorige" Click="VorigeButton_Click"/>
+                </StackPanel>
+            </StackPanel>
+            
+        </DockPanel>
+        
+
+        <ListView x:Name="ReservatiesListView" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Voornaam" Width="Auto" DisplayMemberBinding="{Binding KlantVoornaam}" />
+                    <GridViewColumn Header="Achternaam" Width="Auto" DisplayMemberBinding="{Binding KlantAchternaam}" />
+                    <GridViewColumn Header="Auto" Width="Auto" DisplayMemberBinding="{Binding AutoModel}" />
+                    <GridViewColumn Header="Startdatum" Width="Auto" DisplayMemberBinding="{Binding StartDatum, StringFormat='{}{0:dd/MM/yyyy}'}" />
+                    <GridViewColumn Header="Einddatum" Width="Auto" DisplayMemberBinding="{Binding EindDatum, StringFormat='{}{0:dd/MM/yyyy}'}" />
+                    <GridViewColumn Header="Aantal personen" Width="Auto" DisplayMemberBinding="{Binding AantalPersonen}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

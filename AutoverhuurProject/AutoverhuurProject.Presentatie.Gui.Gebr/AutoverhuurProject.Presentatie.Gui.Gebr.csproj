@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>car_13260.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\overzichtBg.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="car_13260.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AutoverhuurProject.Domein\AutoverhuurProject.Domein.csproj" />
+    <ProjectReference Include="..\AutoverhuurProject.Persistentie.Db\AutoverhuurProject.Persistentie.Db.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\bg.jpg" />
+    <Resource Include="Images\overzichtBg.png" />
+  </ItemGroup>
+
+</Project>

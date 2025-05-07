@@ -1,0 +1,39 @@
+﻿<Window x:Class="AutoverhuurProject.Presentatie.Gui.Geg.GegevensApp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutoverhuurProject.Presentatie.Gui.Geg"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Gegevens initialiseren" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/gegBg.jpg" Opacity="0.5"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Welkom in de autoverhuur applicatie. Selecteer hieronder de gevraagde bestanden." Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"/>
+        <TextBlock x:Name="AutosTextBlock" Text="Autos.csv" Grid.Row="1" VerticalAlignment="Top" HorizontalAlignment="Center" FontWeight="Bold"/>
+        <TextBlock x:Name="KlantenTextBlock" Text="Klanten.csv" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Center" FontWeight="Bold"/>
+        <TextBlock x:Name="VestigingenTextBlock" Text="Vestigingen.csv" Grid.Row="1" Grid.Column="2" VerticalAlignment="Top" HorizontalAlignment="Center" FontWeight="Bold"/>
+
+        
+        <Button x:Name="ToevoegenAutosButton" Content="Toevoegen" Click="ToevoegenAutosButton_Click" Grid.Row="1" Margin="50"/>
+        <Button x:Name="ToevoegenKlantenButton" Content="Toevoegen" Click="ToevoegenKlantenButton_Click" Grid.Row="1" Grid.Column="1" Margin="50"/>
+        <Button x:Name="ToevoegenVestigingenButton" Content="Toevoegen" Click="ToevoegenVestigingenButton_Click" Grid.Row="1" Grid.Column="2" Margin="50"/>
+
+        <Button x:Name="ToevoegenBestandenButton" Content="Bevestigen" Click="ToevoegenBestandenButton_Click" Grid.Row="3" Grid.Column="1" Margin="50"/>
+
+    </Grid>
+</Window>

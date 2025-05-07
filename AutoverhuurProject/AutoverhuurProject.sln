@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoverhuurProject.Domein", "AutoverhuurProject.Domein\AutoverhuurProject.Domein.csproj", "{4031CD8A-1502-40C2-9A40-90A3BDCB70C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoverhuurProject.Persistentie.Bestand", "AutoverhuurProject.Persistentie.Bestand\AutoverhuurProject.Persistentie.Bestand.csproj", "{0D673532-5D92-41C7-B092-4BA4B0C05769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoverhuurProject.Persistentie.Db", "AutoverhuurProject.Persistentie.Db\AutoverhuurProject.Persistentie.Db.csproj", "{39937D25-C3A5-42F7-8544-F56A00BDCBAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoverhuurProject.Presentatie.Gui.Gebr", "AutoverhuurProject.Presentatie.Gui.Gebr\AutoverhuurProject.Presentatie.Gui.Gebr.csproj", "{56EA35B4-8AA3-40FB-8996-C7D8E11B44CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoverhuurProject.Presentatie.Gui.Geg", "AutoverhuurProject.Presentatie.Gui.Geg\AutoverhuurProject.Presentatie.Gui.Geg.csproj", "{57AFE66C-8A74-3581-E146-7F961834565A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoverhuurProject.Domein.Tests", "AutoverhuurProject.Domein.Tests\AutoverhuurProject.Domein.Tests.csproj", "{7967FBD1-0C89-43D4-AC4E-92A8D9223DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4031CD8A-1502-40C2-9A40-90A3BDCB70C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4031CD8A-1502-40C2-9A40-90A3BDCB70C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4031CD8A-1502-40C2-9A40-90A3BDCB70C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4031CD8A-1502-40C2-9A40-90A3BDCB70C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D673532-5D92-41C7-B092-4BA4B0C05769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D673532-5D92-41C7-B092-4BA4B0C05769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D673532-5D92-41C7-B092-4BA4B0C05769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D673532-5D92-41C7-B092-4BA4B0C05769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39937D25-C3A5-42F7-8544-F56A00BDCBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39937D25-C3A5-42F7-8544-F56A00BDCBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39937D25-C3A5-42F7-8544-F56A00BDCBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39937D25-C3A5-42F7-8544-F56A00BDCBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56EA35B4-8AA3-40FB-8996-C7D8E11B44CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EA35B4-8AA3-40FB-8996-C7D8E11B44CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EA35B4-8AA3-40FB-8996-C7D8E11B44CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EA35B4-8AA3-40FB-8996-C7D8E11B44CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57AFE66C-8A74-3581-E146-7F961834565A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AFE66C-8A74-3581-E146-7F961834565A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AFE66C-8A74-3581-E146-7F961834565A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AFE66C-8A74-3581-E146-7F961834565A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7967FBD1-0C89-43D4-AC4E-92A8D9223DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7967FBD1-0C89-43D4-AC4E-92A8D9223DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7967FBD1-0C89-43D4-AC4E-92A8D9223DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7967FBD1-0C89-43D4-AC4E-92A8D9223DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40ECE851-C4D5-4606-BF71-15565A03518D}
+	EndGlobalSection
+EndGlobal
