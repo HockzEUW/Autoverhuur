@@ -36,7 +36,7 @@ Fouten tijdens het importeren worden gelogd in `errors.csv`.
 - **3-tier model**
 - **Repository Design Pattern**
 - **xUnit testing**
-- 
+
 ## Setup
 
 1. **Database**: zorg dat SQL Server draait en de database `AutoverhuurDB` bestaat, eventueel importeren van deze database aan de hand van het `autoverhuur.sql` script dat terug te vinden is onder de `Data` folder
